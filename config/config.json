@@ -1,14 +1,14 @@
 {
   "development": {
     "username": "postgres",
-    "password": "vasu55",
+    "password": "sumanth123",
     "database": "wd-l10-test",
     "host": "127.0.0.1",
     "dialect": "postgres"
   },
   "test": {
     "username": "postgres",
-    "password": "vasu55",
+    "password": "sumanth123",
     "database": "wd-l10-test",
     "host": "127.0.0.1",
     "dialect": "postgres"
